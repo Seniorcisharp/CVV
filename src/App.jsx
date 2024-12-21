@@ -8,7 +8,7 @@ function App() {
       <header className="header">
         <div className="header-left">
           <img
-            src="/4.jpg" 
+            src="public/4.jpg" 
             alt="Profile"
             className="profile-img"
           />
